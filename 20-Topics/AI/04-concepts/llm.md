@@ -19,13 +19,15 @@ status: 草稿
 
 ## 连接
 
-- [[transformer]] - 基础架构
-- [[prompt-engineering]] - 使用技巧
-- [[rag]] - 增强技术
+- [[transformer]] - 基础架构（待创建）
+- [[prompt-engineering]] - 使用技巧（待创建）
+- [[rag]] - 增强技术（待创建）
+- [[../01-protocols/mcp|MCP]] - LLM 通过 MCP 连接工具
+- [[../03-agents/manus|Manus]] - Agent 基于 LLM 构建
 
 ## 来源
 
-- [[2026-04-05]] - 日记来源
+- [[../../../10-Journal/2026/04-April/2026-04-05|2026-04-05]] - 日记来源
 
 ## 待深化
 
