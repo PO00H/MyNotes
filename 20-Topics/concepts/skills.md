@@ -20,7 +20,7 @@ status: 草稿
 
 ## 与 AI 的关系
 
-Skills 是 [[AI]] 的**专业能力包**：
+Skills 是 AI 的**专业能力包**：
 
 - 基础 LLM 有通用能力，但缺乏专业深度
 - Skills 给 AI 注入领域专业知识：
@@ -42,8 +42,8 @@ Skills 是 [[AI]] 的**专业能力包**：
 
 - [[harness]] - Skills 由 Harness 加载和执行
 - [[plugins]] - Plugins 可以提供新的 Skills
-- [[prompt-engineering]] - Skills 本质是高级提示工程
-- [[ai-agent]] - Skills 让 AI 具备专业能力
+- **prompt-engineering** - Skills 本质是高级提示工程
+- **ai-agent** - Skills 让 AI 具备专业能力
 
 ## 来源
 

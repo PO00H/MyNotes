@@ -24,14 +24,14 @@ Memory 解决了 [[llm]] 的核心局限：**上下文窗口有限**
 
 - 原生 LLM 只能记住当前对话（几千到几万 token）
 - Memory 系统让 AI 拥有"长期记忆"
-- 实现真正的[[个性化AI]] - 越用越懂你
+- 实现真正的**个性化AI** - 越用越懂你
 
 ## 连接
 
 - [[harness]] - Memory 是 Harness 管理的组件之一
 - [[rag]] - Memory 使用 RAG 技术进行知识检索
-- [[embeddings]] - Memory 依赖向量嵌入技术
-- [[knowledge-graph]] - 记忆以图谱形式组织
+- **embeddings** - Memory 依赖向量嵌入技术
+- **knowledge-graph** - 记忆以图谱形式组织
 
 ## 应用场景
 

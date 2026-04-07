@@ -20,7 +20,7 @@ Lovable（原名 GitWit），AI 驱动的全栈应用开发平台，通过自然
 
 ## 与 AI 的关系
 
-Lovable 是 [[AI]] 在**软件开发领域**的应用：
+Lovable 是 AI 在**软件开发领域**的应用：
 
 - 将 [[../04-concepts/llm|LLM]] 的代码能力产品化
 - 让非程序员也能开发应用

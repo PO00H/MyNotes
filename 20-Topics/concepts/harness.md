@@ -20,7 +20,7 @@ Claude Code 的运行时框架，负责加载、协调和管理所有组件（sk
 
 ## 与 AI 的关系
 
-Harness 是 [[AI]] 应用的**基础设施层**，类似于：
+Harness 是 AI 应用的**基础设施层**，类似于：
 - 传统应用的运行时环境（如 JVM、Node.js）
 - 但专门为 [[llm]] 和 AI Agent 设计
 - 让 AI 能够安全、高效地调用外部工具和资源
@@ -30,7 +30,7 @@ Harness 是 [[AI]] 应用的**基础设施层**，类似于：
 - [[skills]] - Harness 加载和执行的功能模块
 - [[plugins]] - Harness 集成的外部扩展
 - [[memory]] - Harness 管理的持久化存储组件
-- [[claude-code]] - Harness 是 Claude Code 的核心架构
+- **claude-code** - Harness 是 Claude Code 的核心架构
 
 ## 类比理解
 
